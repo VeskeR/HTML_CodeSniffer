@@ -8,7 +8,7 @@
     "htmlcs"
   ],
   "scripts": {
-    "prepack": "grunt build",
+    "prepare": "grunt build",
     "build": "grunt build",
     "test": "grunt eslint"
   },
